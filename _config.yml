@@ -21,7 +21,7 @@
 title: Tech Valley Game Space
 description: Make Games, Make Friends, Make a Difference
 email: info@techvalleygamespace.org
-baseurl: "/TechValleyGameSpaceSite" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  techvalleygamespace
 
