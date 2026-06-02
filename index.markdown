@@ -4,7 +4,7 @@
 
 layout: post
 ---
-<img src="/Images/tvgsWebsiteMainPage.jpg" alt="A cartoon video game controller floating through space" />
+<img src="{{ site.baseurl }}/Images/tvgsWebsiteMainPage.jpg" alt="A cartoon video game controller floating through space" />
 
 # Make Games, Make Friends, Make a Difference
 Tech Valley Game Space (TVGS) is a diversity-focused nonprofit organization dedicated to making game development accessible to everyone! Our community and co-working space in downtown Troy, New York is a welcoming and accessible environment where professional and aspiring game developers alike come to imagine and build games, as well as to mentor, educate, and support each other.
