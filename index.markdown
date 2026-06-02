@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
+permalink: /
 ---
 <img src="{{ site.baseurl }}/Images/tvgsWebsiteMainPage.jpg" alt="A cartoon video game controller floating through space" />
 
