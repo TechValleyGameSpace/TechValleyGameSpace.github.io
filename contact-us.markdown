@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact/
 ---
 
-<img src="/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
+<img src="{{ site.baseurl }}/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
 
 <a target=null href="https://www.meetup.com/techvalleygamespace/events/">Schedule of events</a>
 

@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /code-of-conduct/
 ---
 
-<img src="/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
+<img src="{{ site.baseurl }}/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
 
 It is our goal at all Tech Valley Game Space (TVGS) gatherings, both physical and online, to encourage and celebrate diversity in games with a constructive working and learning atmosphere. To that end:
 
@@ -49,5 +49,5 @@ The TVGS team will be available to help participants contact venue security or l
 If you have a personal safety concern and wish to request additional security, please contact a volunteer coordinator, and they will assist you.
 
 # Contact Information
-Please use our contact information at the <a href="/contact">Contact Us</a> page.
+Please use our contact information at the <a href="{{ site.baseurl }}/contact">Contact Us</a> page.
 

@@ -5,9 +5,9 @@ permalink: /protostar/
 ---
 
 Please forgive our appearance, we're working on the website and on improving the future of Protostar!
-If you need additional information please <a href="/contact">contact us</a> or <a target=null href="https://discord.gg/xssBeewGtr">join the TVGS Discord</a>.
+If you need additional information please <a href="{{ site.baseurl }}/contact">contact us</a> or <a target=null href="https://discord.gg/xssBeewGtr">join the TVGS Discord</a>.
 
-<img src="/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
+<img src="{{ site.baseurl }}/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />
 
 <b>ProtoStar</b> is a new fund designed to provide game developers with early stage funding support for original game projects. The ProtoStar fund helps indie game makers take promising ideas from the concept phase to the point where they have a working interactive prototype.
 
