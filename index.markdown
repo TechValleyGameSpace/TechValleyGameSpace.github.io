@@ -12,6 +12,6 @@ Tech Valley Game Space (TVGS) is a diversity-focused nonprofit organization dedi
 
 ## Check out our <a target=null href="https://www.meetup.com/techvalleygamespace/events/">schedule</a> of events!
 
-<a target=null href="https://discord.gg/xssBeewGtr">Join the TVGS Discord</a>
+# <a target=null href="https://discord.gg/xssBeewGtr">Join the TVGS Discord</a>
 <hr>
-This site is currently being worked on, please forgive our appearance!
+This site is currently being worked on, please forgive its appearance!
