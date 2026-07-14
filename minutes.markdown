@@ -16,6 +16,7 @@ Please feel free to reach out if you're looking for minutes that are not listed 
     (async () => {
     const response = await fetch('https://api.github.com/repos/TechValleyGameSpace/TechValleyGameSpace.github.io/contents/files/board_minutes/');
     const data = await response.json();
+    data.reverse(); // so that it's more recent dates on the top of the page
     let htmlString = '<ul>';
     
     for (let file of data) {
