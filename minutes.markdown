@@ -8,6 +8,7 @@ As we migrate over to this new site layout we're working on making all our past 
 Please feel free to reach out if you're looking for minutes that are not listed below.
 
 <html>
+  <p id="minute_list" />
   <body>
     <script>
       (async () => {
@@ -16,11 +17,11 @@ Please feel free to reach out if you're looking for minutes that are not listed 
         let htmlString = '<ul>';
         
         for (let file of data) {
-          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+          htmlString += `<li><a href="/${file.path}">${file.name}</a></li>`;
         }
 
         htmlString += '</ul>';
-        document.getElementsByTagName('body')[0].innerHTML = htmlString;
+        document.getElementById('minute_list')[0].innerHTML = htmlString;
       })()
     </script>
   <body>
