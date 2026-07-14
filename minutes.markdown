@@ -23,6 +23,6 @@ Please feel free to reach out if you're looking for minutes that are not listed 
     }
 
     htmlString += '</ul>';
-    document.getElementById('minute_list').replaceWith(htmlString);
+    document.getElementById('minute_list').setHTML(htmlString) || document.getElementById('minute_list').setHTMLUnsafe(htmlString);
     })()
 </script>
