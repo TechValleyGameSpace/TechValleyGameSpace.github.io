@@ -42,7 +42,7 @@ path: learn
             href="https://www.youtube.com/watch?v=WqfZV2Wlb1g"
             target="_blank">Video (YouTube)</a> | <a
             href="/files/learn_resources/gameBalancingExample.zip"
-            target="_blank" rel="noreferrer noopener">Example (ZIP)</a></li>
+            target="_blank" rel="noreferrer noopener">BROKEN LINK Example (ZIP)</a></li>
     <li>Leverage Points for Designers and Players: <a
             href="https://www.youtube.com/watch?v=pwdx4ECI-ek"
             data-type="URL" data-id="https://www.youtube.com/watch?v=pwdx4ECI-ek" target="_blank"
@@ -67,7 +67,7 @@ path: learn
             href="/files/learn_resources/Scripting-In-Unity.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/Unity-Scripting-Tutorial.zip"
-            target="_blank">Source Code</a></li>
+            target="_blank">BROKEN LINK Source Code</a></li>
     <li>Intro to Construct 2: <a rel="noreferrer noopener"
             href="/files/learn_resources/introToConstruct2.pdf"
             target="_blank">Slides (PDF)</a></li>
@@ -80,7 +80,7 @@ path: learn
             href="/files/learn_resources/visualNovels.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/renpyExamples.zip"
-            target="_blank">Examples (ZIP)</a></li>
+            target="_blank">BROKEN LINK Examples (ZIP)</a></li>
     <li>Making VR Applications with Unity: <a rel="noreferrer noopener"
             href="/files/learn_resources/Crash-Course-Unity-VR.pdf"
             target="_blank">Slides (PDF)</a> | <a
@@ -92,7 +92,7 @@ path: learn
             href="/files/learn_resources/Crash-Course-Unity-2D.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/Crash-Course-Unity-2D-Assets.zip"
-            target="_blank">Assets (ZIP)</a></li>
+            target="_blank">BROKEN LINK Assets (ZIP)</a></li>
     <li>Cross-Platform Game Development with Haxe &amp; OpenFL: <a rel="noreferrer noopener"
             href="https://www.youtube.com/watch?v=PP83wcLGEmc"
             target="_blank">Video (YouTube)</a> | <a rel="noreferrer noopener"
@@ -118,12 +118,12 @@ path: learn
             href="/files/learn_resources/Crash-Course-Godot-3.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/crash-course-godot-3.zip"
-            target="_blank">Assets (ZIP)</a></li>
+            target="_blank">BROKEN LINK Assets (ZIP)</a></li>
     <li>Crash Course in Godot 3 – 2D: <a rel="noreferrer noopener"
             href="/files/learn_resources/Crash-Course-Godot-3-2D.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/Crash-Course-Godot-2D-Assets.zip"
-            target="_blank">Assets (ZIP)</a></li>
+            target="_blank">BROKEN LINK Assets (ZIP)</a></li>
     <li>Vocabulary of Unity3D: <a rel="noreferrer noopener"
             href="https://youtu.be/dEyyzlke1rA" target="_blank">Video
             (YouTube)</a> | <a
@@ -182,7 +182,7 @@ path: learn
             href="/files/learn_resources/AnimRig_Blender3d.pdf"
             target="_blank">Slides (PDF)</a> | <a rel="noreferrer noopener"
             href="/files/learn_resources/animRigBlenderExamples.zip"
-            target="_blank">Examples (ZIP)</a></li>
+            target="_blank">BROKEN LINK Examples (ZIP)</a></li>
     <li>Total Beginner Pixel Art: <a rel="noreferrer noopener"
             href="/files/learn_resources/Total-Beginner-Pixel-Art.pdf"
             target="_blank">Slides (PDF)</a></li>
